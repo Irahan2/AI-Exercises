@@ -9,21 +9,7 @@ If you’re trying to figure out what’s going on in your labs or just looking 
 ## 🧠 What’s Inside
 
 Each lab focuses on a different part of the Python & AI ecosystem. We start simple and go deeper step by step. Every lab comes with different questions to everyone
-
-### 🧩 Core Python Libraries
-- **NumPy** → numerical computations  
-- **Pandas** → data manipulation  
-- **Matplotlib** & **SciPy** → visualization and interpolation  
-- **Seaborn** → data visualization and statistics  
-- **Scikit-learn** → classical ML algorithms and preprocessing  
-
-### 🧠 AI / ML Libraries (coming in future labs)
-- **TensorFlow** → building deep learning models  
-- **Keras** → simple and high-level neural networks  
-- **PyTorch** → flexible deep learning  
-- **OpenCV** → computer vision  
-- **LangChain** & **Hugging Face Transformers** → large language models and NLP  
-
+ 
 ---
 
 ## 📚 More Information
