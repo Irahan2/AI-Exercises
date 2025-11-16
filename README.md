@@ -1,14 +1,14 @@
 # AI Laboratory Exercises
 
-This repository contains hands-on artificial intelligence and machine learning projects completed as part of coursework. Each lab focuses on different core concepts and techniques.
-
+Hey guys! 👋  
+This repo includes my lab work from the **Artificial Intelligence** course.  I created this repo mostly to help **next year’s students** (and maybe some lost souls from our ECE crew ).  
+If you’re trying to figure out what’s going on in your labs or just looking for working examples , check it out . 
 ## Lab Structure
 
 ### Lab 01 - Data Manipulation & Interpolation
 - **Numpy.py**: Array operations and numerical computations
 - **Pandas.py**: Data manipulation and analysis
 - **interpolation_task.py**: Interpolation methods and curve fitting
->>>>>>> restore-labs
 
 ### Lab 02 - Linear Regression & Optimization
 - **Task1_LinearRegression.py**: Basic linear regression implementation
