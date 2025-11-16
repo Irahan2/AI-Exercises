@@ -47,3 +47,7 @@ python Task3_Noise_Eval.py
 ## Prerequisites
 - Python 3.10 or higher
 - Required packages: `pip install tensorflow numpy pandas matplotlib scikit-learn`
+
+# Suggestions
+
+I would recommend you read “Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow.” Most of the lab questions and lecture slides are made from this book, and it’s a really useful resource if you want to learn.
