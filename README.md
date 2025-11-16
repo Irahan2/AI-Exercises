@@ -1,20 +1,49 @@
-# 🤖 AI Lab – Exercises & Notes
+# AI Laboratory Exercises
 
-Hey guys! 👋  
-This repo includes my lab work from the **Artificial Intelligence** course.  I created this repo mostly to help **next year’s students** (and maybe some lost souls from our ECE crew ).  
-If you’re trying to figure out what’s going on in your labs or just looking for working examples , check it out . 
+This repository contains hands-on artificial intelligence and machine learning projects completed as part of coursework. Each lab focuses on different core concepts and techniques.
 
----
+## Lab Structure
 
-## 🧠 What’s Inside
+### Lab 01 - Data Manipulation & Interpolation
+- **Numpy.py**: Array operations and numerical computations
+- **Pandas.py**: Data manipulation and analysis
+- **interpolation_task.py**: Interpolation methods and curve fitting
 
-Each lab focuses on a different part of the Python & AI ecosystem. We start simple and go deeper step by step. Every lab comes with different questions to everyone
- 
----
+### Lab 02 - Linear Regression & Optimization
+- **Task1_LinearRegression.py**: Basic linear regression implementation
+- **Task2_BGD.py**: Batch Gradient Descent optimization
+- **Task3_SGD.py**: Stochastic Gradient Descent
+- **Task4_MBGD.py**: Mini-Batch Gradient Descent
+- **Task5_Comparison.py**: Performance comparison of optimization methods
 
-## 📚 More Information
-For official materials and class details, visit:  
-👉 [AISEL Laboratory – edu.domski.pl](https://edu.domski.pl/en/courses/selected-topics-in-artificial-intelligence/aisel-laboratory/)
+### Lab 03 - Classification Algorithms
+- **Task_Classification_Models.py**: Implementation of various classification techniques
+- **classification_set.csv**: Dataset for classification experiments
 
----
+### Lab 04 - Deep Learning with CNNs
+- **Task1_Grid.py**: MNIST dataset visualization (9×9 grid)
+- **Task2_CNN_Train.py**: Convolutional Neural Network training and evaluation
+- **Task3_Noise_Eval.py**: Model robustness testing with salt & pepper noise
 
+## Technologies Used
+- Python 3.10+
+- TensorFlow/Keras
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+## Getting Started
+Each lab is self-contained. Navigate to the respective directory and run the Python scripts to see the implementations in action.
+
+```bash
+# Example: Running Lab 04 tasks
+cd Lab_04
+python Task1_Grid.py
+python Task2_CNN_Train.py
+python Task3_Noise_Eval.py
+```
+
+## Prerequisites
+- Python 3.10 or higher
+- Required packages: `pip install tensorflow numpy pandas matplotlib scikit-learn`
